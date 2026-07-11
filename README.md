@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that transforms raw employee data into actionable HR insights — covering workforce demographics, attrition trends, salary distribution, and experience patterns to support better people-management decisions.
 
-![Dashboard Preview](dashboard.png)
+dashboard.jpg
 
 ---
 
